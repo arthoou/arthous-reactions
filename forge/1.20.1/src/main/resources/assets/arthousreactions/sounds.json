@@ -1,0 +1,10 @@
+{
+  "reaction_pop": {
+    "subtitle": "subtitles.arthousreactions.reaction_pop",
+    "sounds": [
+      {
+        "name": "arthousreactions:reaction_pop"
+      }
+    ]
+  }
+}

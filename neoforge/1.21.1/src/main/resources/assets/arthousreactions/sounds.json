@@ -1,0 +1,118 @@
+{
+  "reaction_pop": {
+    "subtitle": "subtitles.arthousreactions.reaction_pop",
+    "sounds": [
+      {
+        "name": "arthousreactions:reaction_pop"
+      }
+    ]
+  },
+  "cheer_pop": {
+    "subtitle": "subtitles.arthousreactions.cheer_pop",
+    "sounds": [
+      {
+        "name": "arthousreactions:cheer_pop"
+      }
+    ]
+  },
+  "angry_roblox": {
+    "subtitle": "subtitles.arthousreactions.angry_roblox",
+    "sounds": [
+      {
+        "name": "arthousreactions:angry_roblox"
+      }
+    ]
+  },
+  "pout_stomp": {
+    "subtitle": "subtitles.arthousreactions.pout_stomp",
+    "sounds": [
+      {
+        "name": "arthousreactions:pout_stomp",
+        "volume": 1.35
+      }
+    ]
+  },
+  "pizza_hi": {
+    "subtitle": "subtitles.arthousreactions.pizza_hi",
+    "sounds": [
+      {
+        "name": "arthousreactions:pizza_hi"
+      }
+    ]
+  },
+  "pizza_sad": {
+    "subtitle": "subtitles.arthousreactions.pizza_sad",
+    "sounds": [
+      {
+        "name": "arthousreactions:pizza_sad"
+      }
+    ]
+  },
+  "pizza_laugh": {
+    "subtitle": "subtitles.arthousreactions.pizza_laugh",
+    "sounds": [
+      {
+        "name": "arthousreactions:pizza_laugh"
+      }
+    ]
+  },
+  "pizza_fear": {
+    "subtitle": "subtitles.arthousreactions.pizza_fear",
+    "sounds": [
+      {
+        "name": "arthousreactions:pizza_fear"
+      }
+    ]
+  },
+  "pizza_woah": {
+    "subtitle": "subtitles.arthousreactions.pizza_woah",
+    "sounds": [
+      {
+        "name": "arthousreactions:pizza_woah"
+      }
+    ]
+  },
+  "pizza_ew": {
+    "subtitle": "subtitles.arthousreactions.pizza_ew",
+    "sounds": [
+      {
+        "name": "arthousreactions:pizza_ew"
+      }
+    ]
+  },
+  "pizza_clap": {
+    "subtitle": "subtitles.arthousreactions.pizza_clap",
+    "sounds": [
+      {
+        "name": "arthousreactions:pizza_clap"
+      }
+    ]
+  },
+  "pizza_67": {
+    "subtitle": "subtitles.arthousreactions.pizza_67",
+    "sounds": [
+      {
+        "name": "arthousreactions:pizza_67",
+        "stream": false
+      }
+    ]
+  },
+  "pizza_bye": {
+    "subtitle": "subtitles.arthousreactions.pizza_bye",
+    "sounds": [
+      {
+        "name": "arthousreactions:pizza_bye",
+        "stream": false
+      }
+    ]
+  },
+  "pizza_vine_boom": {
+    "subtitle": "subtitles.arthousreactions.pizza_vine_boom",
+    "sounds": [
+      {
+        "name": "arthousreactions:pizza_vine_boom",
+        "stream": false
+      }
+    ]
+  }
+}
